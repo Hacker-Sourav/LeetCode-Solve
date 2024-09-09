@@ -12,6 +12,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
+| [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 ## Greedy
@@ -32,6 +33,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
