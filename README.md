@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
