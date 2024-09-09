@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
