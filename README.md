@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
@@ -76,6 +77,7 @@
 | [0027-remove-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -100,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 ## Counting
 |  |
