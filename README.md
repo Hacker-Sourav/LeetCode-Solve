@@ -7,6 +7,7 @@
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
 ## Hash Table
@@ -59,6 +61,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
