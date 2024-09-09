@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
@@ -33,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
