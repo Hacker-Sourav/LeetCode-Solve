@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
