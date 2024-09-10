@@ -53,6 +53,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0058-length-of-last-word) |
 ## Linked List
 |  |
 | ------- |
