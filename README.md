@@ -17,6 +17,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -140,4 +142,8 @@
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
