@@ -12,6 +12,7 @@
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -77,6 +79,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
