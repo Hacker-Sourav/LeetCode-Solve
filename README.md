@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -73,6 +75,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
