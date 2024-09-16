@@ -23,6 +23,7 @@
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
+| [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
@@ -54,6 +55,7 @@
 | [0012-integer-to-roman](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
+| [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
@@ -65,6 +67,7 @@
 | [0014-longest-common-prefix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0151-reverse-words-in-a-string) |
+| [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -128,6 +131,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 ## Counting
 |  |
 | ------- |
