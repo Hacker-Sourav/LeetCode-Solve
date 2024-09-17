@@ -46,6 +46,7 @@
 | [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
@@ -68,6 +69,7 @@
 | [0058-length-of-last-word](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Linked List
 |  |
@@ -136,6 +138,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
