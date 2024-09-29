@@ -47,6 +47,7 @@
 | [0036-valid-sudoku](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
+| [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0002-add-two-numbers) |
+| [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0725-split-linked-list-in-parts) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -167,4 +169,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Design
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
