@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1435-xor-queries-of-a-subarray) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
@@ -49,6 +50,7 @@
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Recursion
 |  |
