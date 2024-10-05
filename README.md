@@ -50,6 +50,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -76,6 +77,7 @@
 | [0058-length-of-last-word](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
@@ -117,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -184,4 +187,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
