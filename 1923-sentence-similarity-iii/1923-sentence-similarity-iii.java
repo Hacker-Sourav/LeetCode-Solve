@@ -3,57 +3,25 @@ public class Solution {
         String[] s1 = sentence1.split(" ");
         String[] s2 = sentence2.split(" ");
         
+        // Ensure s1 is the smaller or equal length sentence
         if (s1.length > s2.length) {
-            int fi = 0, si = 0, flag = 0;
-            while (fi < s2.length && si < s1.length && flag < 2) {
-                if (s2[fi].equals(s1[si])) {
-                    fi++;
-                    si++;
-                } else {
-                    flag++;
-                    int mf = 0;
-                    for (int i = si + 1; i < s1.length; i++) {
-                        if (s2[fi].equals(s1[i])) {
-                            mf = i;
-                        }
-                    }
-                    si = mf + 1;
-                    fi++;
-                }
-            }
-            if (si < s1.length) flag++;
-            if (fi < s2.length) flag++;
-
-            return flag <= 1;
-        } else if (s1.length < s2.length) {
-            int fi = 0, si = 0, flag = 0;
-            while (fi < s1.length && si < s2.length && flag < 2) {
-                if (s1[fi].equals(s2[si])) {
-                    fi++;
-                    si++;
-                } else {
-                    flag++;
-                    int mf = 0;
-                    for (int i = si + 1; i < s2.length; i++) {
-                        if (s1[fi].equals(s2[i])) {
-                            mf = i;
-                        }
-                    }
-                    si = mf + 1;
-                    fi++;
-                }
-            }
-            if (si < s2.length) flag++;
-            if (fi < s1.length) flag++;
-
-            return flag <= 1;
-        } else {
-            for (int i = 0; i < s1.length; i++) {
-                if (!s1[i].equals(s2[i])) {
-                    return false;
-                }
-            }
-            return true;
+            return areSentencesSimilar(sentence2, sentence1);
         }
+        
+        int i = 0; // Start index
+        int j = 0; // End index
+        
+        // Match from the start
+        while (i < s1.length && s1[i].equals(s2[i])) {
+            i++;
+        }
+        
+        // Match from the end
+        while (i + j < s1.length && s1[s1.length - 1 - j].equals(s2[s2.length - 1 - j])) {
+            j++;
+        }
+        
+        // If all words of the shorter sentence were matched, return true
+        return i + j >= s1.length;
     }
 }
