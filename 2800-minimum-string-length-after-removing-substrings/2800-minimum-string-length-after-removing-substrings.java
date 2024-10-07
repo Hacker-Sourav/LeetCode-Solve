@@ -1,10 +1,7 @@
 class Solution {
     public int minLength(String s) {
         Stack<Character> stack = new Stack<>();
-        for(int i=0;i<s.length();i++){
-
-            char curr_char=s.charAt(i);
-
+        for(char curr_char : s.toCharArray()){
             if(stack.isEmpty()){
                 stack.push(curr_char);
                 continue;
