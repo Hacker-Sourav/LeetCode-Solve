@@ -83,6 +83,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
