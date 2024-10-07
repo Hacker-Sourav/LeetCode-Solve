@@ -9,10 +9,7 @@ class Solution {
                 stack.push(curr_char);
                 continue;
             }
-            if(curr_char=='B' && stack.peek()=='A'){
-                stack.pop();
-            }
-            else if(curr_char=='D' && stack.peek()=='C'){
+            if(curr_char=='B' && stack.peek()=='A' || curr_char=='D' && stack.peek()=='C'){
                 stack.pop();
             }
             else{
