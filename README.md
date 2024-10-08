@@ -41,6 +41,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Linked List
@@ -125,6 +127,7 @@
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Dynamic Programming
 |  |
@@ -139,6 +142,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
