@@ -41,6 +41,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0567-permutation-in-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
