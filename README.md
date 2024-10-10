@@ -24,6 +24,7 @@
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0238-product-of-array-except-self) |
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
+| [1002-maximum-width-ramp](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1002-maximum-width-ramp) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1435-xor-queries-of-a-subarray) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -145,12 +146,14 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0042-trapping-rain-water) |
+| [1002-maximum-width-ramp](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1002-maximum-width-ramp) |
 ## Divide and Conquer
 |  |
 | ------- |
