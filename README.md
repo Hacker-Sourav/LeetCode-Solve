@@ -49,6 +49,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3195-separate-black-and-white-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3195-separate-black-and-white-balls](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
