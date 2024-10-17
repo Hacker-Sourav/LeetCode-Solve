@@ -46,6 +46,7 @@
 | [0134-gas-station](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0135-candy) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -78,6 +79,7 @@
 | [0013-roman-to-integer](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0189-rotate-array) |
 | [0539-minimum-time-difference](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
