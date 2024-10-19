@@ -97,6 +97,7 @@
 | [0920-uncommon-words-from-two-sentences](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0054-spiral-matrix) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2155-find-missing-observations](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -192,6 +194,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/0002-add-two-numbers) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Hacker-Sourav/LeetCode-Solve/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Number Theory
 |  |
 | ------- |
